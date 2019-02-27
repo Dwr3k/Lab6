@@ -1,0 +1,8 @@
+Test	Input	Expected			Test Condition
+1	15	0000000000001111		Test Odd Number
+
+2	98	0000000001100010		Test Even Number
+
+3	0	0000000000000000		Test 0
+
+4	-1	1111111111111111		Test negative number
